@@ -1,4 +1,4 @@
-# Chuck Norris Tribute
+# Chuck Norris Jokes
 
 A tribute to actor, martial artist, and American legend Chuck Norris, who passed away on March 20, 2026. This page randomly displays some of the famous jokes the world created in his honor — a way to celebrate the myth he became in pop culture.
 
